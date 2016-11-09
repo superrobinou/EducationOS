@@ -26,7 +26,7 @@ class User{
 				
 			}
 		else if($email<>null){
-			
+			echo "hello";
 		}
 		}
 	}
