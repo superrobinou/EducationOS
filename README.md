@@ -3,4 +3,4 @@ EducationOS est un système d’exploitation tournant sur un serveur web utilis�
 L’édition au clavier sera facilité par un agencement de clavier plus ergonomique notamment pour les mathématiques mais aussi pour les langues étrangères grâce au changement automatique des caractères affichés sur le clavier.
 
 #Liens intéressants
-(http://www.lepetitjournaldesprofs.com/blog/2016/11/23/le-numerique-en-classe/])[http://www.lepetitjournaldesprofs.com/blog/2016/11/23/le-numerique-en-classe/]
+http://www.lepetitjournaldesprofs.com/blog/2016/11/23/le-numerique-en-classe/
